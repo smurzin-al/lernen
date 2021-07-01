@@ -49,7 +49,7 @@ while(1):
 		except ValueError:
 			print('Ошибка ввода, введи число')
 
-	print('Расчитанные значения на основании введенных')
+	print('Расчитанные значения на основании введенных данных')
 	print_in_grad_rad(inp_grad,inp_min,inp_sec)
 
 
